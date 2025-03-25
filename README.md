@@ -157,7 +157,7 @@ Tästä projektista löydät malleja henkilökohtaisille tekoälyagenteille, jot
 <a name="ar"></a>
 ‏في هذا المشروع، ستجد قوالب لوكلاء الذكاء الاصطناعي الشخصيين، يمكنك تهيئتها في ChatGPT وMicrosoft Copilot. لديّ أيضًا وكيل C# ووكيل PowerShell، لكن لا يمكنني استخدامهما هنا لأنهما ملكٌ للشركة. يمكنك إنشاء وكيلك الخاص وإضافته هنا وهناك.
 
-➤ [مباشرةً إلى مجلد الوكلاء باللغة العربية](https://github.com/NataljaNeumann/Agents/tree/main/Agents/Ar)
+⮜ [مباشرةً إلى مجلد الوكلاء باللغة العربية](https://github.com/NataljaNeumann/Agents/tree/main/Agents/Ar)
 
 [ويكي](https://github.com/NataljaNeumann/Agents/wiki)
 ‏
@@ -165,6 +165,6 @@ Tästä projektista löydät malleja henkilökohtaisille tekoälyagenteille, jot
 <a name="he"></a>
 ‏בפרויקט זה תוכלו למצוא תבניות לסוכני AI אישיים שתוכלו להגדיר ב-ChatGPT וב-Microsoft Copilot. למעשה יש לי גם C# וסוכן PowerShell, אבל אני לא יכול להשתמש בהם כאן כי הם שייכים לחברה. אתה מוזמן ליצור משלך ולהוסיף כאן שם.
 
-➤ [ישיר לתיקייה עם סוכנים בשפה העברית](https://github.com/NataljaNeumann/Agents/tree/main/Agents/He)
+⮜ [ישיר לתיקייה עם סוכנים בשפה העברית](https://github.com/NataljaNeumann/Agents/tree/main/Agents/He)
 
 [ויקי](https://github.com/NataljaNeumann/Agents/wiki)
