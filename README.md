@@ -114,7 +114,7 @@ Tästä projektista löydät malleja henkilökohtaisille tekoälyagenteille, jot
 <a name="tr"></a>
 ‎Bu projede ChatGPT ve Microsoft Copilot'ta yapılandırabileceğiniz kişisel AI ajanları için şablonlar bulabilirsiniz. Aslında bir C# ve bir PowerShell ajanım da var ama bunları burada kullanamıyorum çünkü bunlar firmaya ait. Kendi ajanınızı oluşturup buraya eklemekten çekinmeyin.
 
-➤ [Türkçe dilindeki ajanların bulunduğu klasöre doğrudan](https://github.com/NataljaNeumann/Agents/tree/main/Agents/Tu)
+➤ [Türkçe dilindeki ajanların bulunduğu klasöre doğrudan](https://github.com/NataljaNeumann/Agents/tree/main/Agents/Tr)
 
 [Viki](https://github.com/NataljaNeumann/Agents/wiki)‎
 # 中文文本
