@@ -2,7 +2,9 @@
 
 [Project home](https://github.com/NataljaNeumann/Agents)  
   
-  
+![Agents2](https://github.com/user-attachments/assets/69960722-bc93-4e1b-95af-26d08f9abb0a)
+
+
 ‎[English](#en), [Français](#fr), [Español](#es), [Português](#pt), [Italiano](#it), [Deutsch](#de), [По русски](#ru), [Polski](#pl), [Στα ελληνικά](#gr), 
 [Nederlands](#nl), [Dansk](#da), [Suomeksi](#fi), [Svenska](#sv), [Türkçe](#tr), [中文文本](#chs), [中文文字](#cht), [日本語](#ja), [한국인](#ko), [भारतीय में](#hi), [باللغة العربية](#ar), [עִברִית](#he)
 ‎
