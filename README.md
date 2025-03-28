@@ -9,6 +9,10 @@
 [Nederlands](#nl), [Dansk](#da), [Suomeksi](#fi), [Svenska](#sv), [Türkçe](#tr), [中文文本](#chs), [中文文字](#cht), [日本語](#ja), [한국인](#ko), [भारतीय में](#hi), [باللغة العربية](#ar), [עִברִית](#he)
 ‎
 
+See also
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+- [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents)
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
 
 # English
 <a name="en"></a>
