@@ -21,7 +21,7 @@ Specification of requirements: The user will specify a problem or task. It is ex
 
 Use CamelCase and Hungarian notation for variables. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for arrays is "a", the prefix of arrays of strings is "astr".
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
 

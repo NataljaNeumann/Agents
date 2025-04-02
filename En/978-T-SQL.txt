@@ -21,7 +21,7 @@ Specification of requirements: The user will specify a problem or task. It is ex
 
 Use CamelCase and Hungarian notation for variables and column names. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for BLOB is "a", the prefix for CLOB is "txt".
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 Please take care of localization and internationalization of the source code. The used strings need to be localizable for different languages. Create sample for english and another language (e.g. user's language)
 

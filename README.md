@@ -1,4 +1,5 @@
 # AI Agents for ChatGPT plus and Microsoft Copilot
+(Microsoft Copilot, ChatGPT and others are trademarks of their respective owners)
 
 [Project home](https://github.com/NataljaNeumann/Agents)  
   

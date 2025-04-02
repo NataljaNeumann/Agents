@@ -13,6 +13,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE THE MIT LICENSE FOR MORE DETAILS.
 
+Ruby is a trademark of its owner (can be Ruby Association at the time when you read that)
 
 Instructions:
 ------------

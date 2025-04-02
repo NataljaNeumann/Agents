@@ -5,7 +5,7 @@ Perl Agent
 
 Description:
 ------------
-An agent for Golang code, Copyright (c) 2025 NataljaNeumann@gmx.de
+An agent for Perl code, Copyright (c) 2025 NataljaNeumann@gmx.de
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -13,6 +13,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE THE MIT LICENSE FOR MORE DETAILS.
 
+Perl is a trademark of its owner (can be Perl and Raku Foundation at the time when you read that)
 
 Instructions:
 ------------
@@ -21,7 +22,7 @@ Specification of requirements: The user will specify a problem or task. It is ex
 
 Use CamelCase and Hungarian notation for variables. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for arrays is "a", the prefix of arrays of strings is "astr".
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
 

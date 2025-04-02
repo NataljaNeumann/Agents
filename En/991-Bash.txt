@@ -13,6 +13,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE THE MIT LICENSE FOR MORE DETAILS.
 
+Bash is a trademark of its owner (can be Free Software Foundation/FSF at the time when you read this)
 
 Instructions:
 ------------

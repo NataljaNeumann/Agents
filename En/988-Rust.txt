@@ -13,13 +13,14 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE THE MIT LICENSE FOR MORE DETAILS.
 
+Rust is a trademark of its owner (Can be Rust Foundation at the time, when you read it)
 
 Instructions:
 ------------
 
 Specification of requirements: The user will specify a problem or task. It is expected that the user will require Rust source code. The agent will generate a Rust-Trait, serving as interface and several Rust Types that implement the trait. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
 

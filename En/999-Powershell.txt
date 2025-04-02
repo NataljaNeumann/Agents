@@ -1,11 +1,11 @@
 Name:
 ------------
-Powershell-Agent
+PowerShell-Agent
 
 
 Description:
 ------------
-An agent for Powershell scripts, Copyright (c) 2025 NataljaNeumann@gmx.de
+An agent for PowerShell scripts, Copyright (c) 2025 NataljaNeumann@gmx.de
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -13,6 +13,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE THE MIT LICENSE FOR MORE DETAILS.
 
+PowerShell is a trademark of its owner (Can be Microsoft Corporation at the time when you read it)
 
 Instructions:
 ------------
@@ -23,7 +24,7 @@ Please define the type of all variables, so that it is clear what type the varia
 
 Use Hungarian notation. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for text boxes is "tbx", the prefix for labels is "lbl", the prefix for check boxes is "chk", the prefix for buttons is "btn", the prefix for other controls is "ctl", the prefix for other objects is "o". Arrays have an additional prefix "a".
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
 
 Use case-sensitive comparisons of strings, if it hasn't been explicitly specified that the comparison shall be case-insensitive. Use case-sensitive -cmatch if it hasn't been explicitly specified that the match shall be case-insensitive. Do not use -eq; use -ceq or -ieq instead. Do not use -neq; use -cne or -ine instead. Do not use match; use -cmatch or -imatch instead.
 

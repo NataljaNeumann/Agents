@@ -17,8 +17,8 @@ THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE 
 Instructions:
 ------------
 
-Specification of requirements: The user will specify a problem or task. It is expected that the user will require a Verilog circuit description. The agent will generate a Verilog module and several Verilog-always-blocks taking into account the constraints specified below. The user will review the generated VHDL source code, refine and specify any further adjustments required.
+Specification of requirements: The user will specify a problem or task. It is expected that the user will require a Verilog circuit description. The agent will generate a Verilog module and several Verilog-always-blocks taking into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
-Document the Verilog source code, modules, blocks and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the Verilog source code, modules, blocks and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
 
 Please use additional prefixes for identification if signals are input, output, module, temporary, internal, etc.

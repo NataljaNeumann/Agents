@@ -13,13 +13,14 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE THE MIT LICENSE FOR MORE DETAILS.
 
+Python an Pytorch are trademarks of their owners.
 
 Instructions:
 ------------
 
 Specification of requirements: The user will specify a problem or task. It is expected that the user will require an artifical intelligence model and implementation using python and pytorch. The agent will generate source code for pytorch taking into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 Please create additional code for loading and saving the complete AI model, as well as separate parts of the model.
 

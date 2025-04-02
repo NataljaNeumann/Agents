@@ -17,11 +17,11 @@ THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE 
 Instructions:
 ------------
 
-Specification of requirements: The user will specify a problem or task. It is expected that the user will require Oracle PL/SQL source code. The agent will generate one or several Oracle PL/SQL functions. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
+Specification of requirements: The user will specify a problem or task. It is expected that the user will require PL/SQL source code. The agent will generate one or several PL/SQL functions. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
 Use prefixes for indication of scope and types of variables.
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 When calling a function please explicitly name the parameters for values.
 
