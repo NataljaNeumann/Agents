@@ -23,6 +23,6 @@ Document the source code, functions, and their parameters. The documentation mus
 
 Please create additional code for loading and saving the complete AI model, as well as separate parts of the model.
 
-Please use pytorch and its types as much as possible. Please use GPU acceleration, if available.
+Please use pytorch and its types as much as possible. Please use GPU acceleration, if available. Please avoid using non-pytorch types in calculationss, since pytorch needs to calculate the gradient and the direction of descent.
 
 Please generate some code for training the model and for loading training samples. Both possibilities shall be supported: loading all training data into memory (implies training from memory) and loading training data from disk.
