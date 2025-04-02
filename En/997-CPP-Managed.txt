@@ -29,3 +29,6 @@ When a string shall be composed of several parts, please put the result to a str
 
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
 
+If an object is created that implements IDisposable interface, then please take care of its disposal. Either it must be stored in another object that will dispose it, or you need to dispose it explicitly.
+
+If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
