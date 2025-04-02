@@ -30,6 +30,7 @@ Dans ce projet, vous trouverez des modèles d'agents IA personnels configurables
 
 Les agents qui aident à la programmation peuvent être trouvés dans l'annuaire [anglais](https://github.com/NataljaNeumann/Agents/tree/main/En).
 ‎
+
 [Wikia](https://github.com/NataljaNeumann/Agents/wiki)
 
 # Español
@@ -95,6 +96,7 @@ W tym projekcie znajdziesz szablony dla osobistych agentów AI, które możesz s
 
 Οι πράκτορες που βοηθούν στον προγραμματισμό βρίσκονται στον [αγγλικό κατάλογο](https://github.com/NataljaNeumann/Agents/tree/main/En).
 ‎
+
 [Wiki](https://github.com/NataljaNeumann/Agents/wiki)‎
 # Nederlands
 <a name="nl"></a>
@@ -147,9 +149,10 @@ Programlama konusunda yardımcı olan acenteleri [İngilizce](https://github.com
 
 ➤ [直接进入包含中文代理的文件夹](https://github.com/NataljaNeumann/Agents/tree/main/Chs)
 
-[维基百科](https://github.com/NataljaNeumann/Agents/wiki)  
-‎
 可以在英文目录中找到协助编程的代理。
+
+
+[维基百科](https://github.com/NataljaNeumann/Agents/wiki)  
 
 
 # 中文文字
