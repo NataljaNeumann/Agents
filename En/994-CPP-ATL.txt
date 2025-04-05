@@ -32,3 +32,7 @@ When you Use an embedded template declaration you need to put inner declaration 
 In COM-interface and parameters of functions of COM interface please use the COM-Typical types and parameter prefixes. In the inner code don't use plain pointers, use STL templates for management of pointers, e.g. std::unique_ptr or std::shared_ptr.
 
 Please use CString class from MFC or ATL instead of std::string, this is much more convenient. If there are several possibilities to implement something, then prefer MFC or ATL.
+
+Avoid known secutiry issues. Also please use secure variants of functions instead of insecure.
+
+Target platform is Windows.

@@ -28,3 +28,5 @@ Please take care of localization and internationalization of the source code. Th
 When calling a function, please explicitly name the parameters.
 
 At least in the outermost function you need to take care about possible errors and commits/rollbacks.
+
+Avoid known secutiry issues.

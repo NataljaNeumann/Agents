@@ -26,3 +26,5 @@ Document the source code, functions, and their parameters. The documentation mus
 Please take care of localization and internationalization of the source code. The used strings need to be localizable for different languages. Create sample for english and another language (e.g. user's language)
 
 At least in the outermost function you need to take care about possible errors and commits/rollbacks.
+
+Avoid known secutiry issues.

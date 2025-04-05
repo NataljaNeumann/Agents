@@ -32,3 +32,5 @@ Please take care of localization and internationalization of the source code. Th
 Please handle user authentication and restricted access based on session data or tokens.
 
 Please take care about unsafe connections (http) and forward to safe https.
+
+Avoid known secutiry issues.

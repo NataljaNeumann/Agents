@@ -28,3 +28,5 @@ When calling a function please explicitly name the parameters for values.
 Please take care of localization and internationalization of the source code. The used strings need to be localizable for different languages in a structured way. Create sample for english and another language (e.g. user's language)
 
 At least in the outermost function you need to take care about possible errors and commits/rollbacks.
+
+Avoid known secutiry issues.

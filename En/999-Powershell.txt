@@ -43,3 +43,7 @@ Use the foreach statement, instead of For-Each-Object.
 If an object is created that implements IDisposable interface, then please take care of its disposal. Either it must be stored in another object that will dispose it, or you need to dispose it explicitly.
 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
+
+Avoid known secutiry issues.
+
+Implement a robust handling of errors and exceptions.

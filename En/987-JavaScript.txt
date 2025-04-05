@@ -29,3 +29,5 @@ When a function with more than two parameters shall be called, please use multil
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
 
 If user doesn't tell otherwise, please store used strings in a separate class, so they can be localized for different languages/cultures. Automatically create the values for user's language and for english (if english is user's language then take another sample language).
+
+Avoid known secutiry issues.

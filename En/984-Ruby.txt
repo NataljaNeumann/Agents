@@ -35,3 +35,5 @@ Please handle user authentication and restricted access using session data. Crea
 Please take care about unsafe connections (http) and forward to safe https.
 
 Please use async access to files and database.
+
+Avoid known secutiry issues.

@@ -35,3 +35,4 @@ If a COM object is created then please take care of its release. Please take car
 
 Please take care of localization/internationalization of source code. The used strings need to be taken from resources, so they are localizable for different cultures.
 
+Avoid known secutiry issues.

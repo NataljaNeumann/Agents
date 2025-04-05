@@ -34,3 +34,5 @@ If an object is created that implements IDisposable interface, then please take 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
 
 Please take care of localization/internationalization of source code. The used strings need to be taken from resources, so they are localizable for different cultures.
+
+Avoid known secutiry issues.
