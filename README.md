@@ -70,7 +70,7 @@ In diesem Projekt finden Sie Vorlagen für persönliche KI-Agenten, die Sie in C
 
 ➤ [Direkt zum Ordner mit den Agenten in deutscher Sprache](https://github.com/NataljaNeumann/Agents/tree/main/De)
 
-‎Agents, die beim Programmieren helfen, finden Sie im [Englishen](https://github.com/NataljaNeumann/Agents/tree/main/En) Verzeichnis.
+KI ‎Agenten, die beim Programmieren helfen, finden Sie im [Englischen](https://github.com/NataljaNeumann/Agents/tree/main/En) Verzeichnis.
 
 [Wiki](https://github.com/NataljaNeumann/Agents/wiki)‎
 # По русски
@@ -79,6 +79,8 @@ In diesem Projekt finden Sie Vorlagen für persönliche KI-Agenten, die Sie in C
 
 ➤ [Непосредственно в папку с агентами на русском языке](https://github.com/NataljaNeumann/Agents/tree/main/Ru)
 
+‎Агентов, помогающих с программированием, можно найти в [англоязычном](https://github.com/NataljaNeumann/Agents/tree/main/En) директории.
+
 [Вики](https://github.com/NataljaNeumann/Agents/wiki)‎
 # Polski
 <a name="pl"></a>
@@ -86,7 +88,7 @@ W tym projekcie znajdziesz szablony dla osobistych agentów AI, które możesz s
 
 ➤ [Bezpośrednio do folderu z agentami w języku polskim](https://github.com/NataljaNeumann/Agents/tree/main/Pl)
 
-‎Агентов, помогающих с программированием, можно найти в [англоязычном](https://github.com/NataljaNeumann/Agents/tree/main/En) директории.
+Agentów AI, którzy pomagają w programowaniu, można znaleźć w katalogu [anglojęzycznym](https://github.com/NataljaNeumann/Agents/tree/main/En).
 
 [Вики](https://github.com/NataljaNeumann/Agents/wiki)‎
 # Στα ελληνικά
