@@ -33,6 +33,6 @@ If an object is created that implements IDisposable interface, then please take 
 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
 
-Avoid known secutiry issues.
+Avoid known security issues.
 
 Please implement a robust handling of errors/exceptions.

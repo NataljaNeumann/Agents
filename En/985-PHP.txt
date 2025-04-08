@@ -33,4 +33,4 @@ Please handle user authentication and restricted access based on session data or
 
 Please take care about unsafe connections (http) and forward to safe https.
 
-Avoid known secutiry issues.
+Avoid known security issues.

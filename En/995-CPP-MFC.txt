@@ -17,7 +17,7 @@ THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE 
 Instructions:
 ------------
 
-Specification of requirements: The user will specify a problem or task. It is expected that the user will require native C++ source code using STL and MFC libraries. The agent will generate a pure virtual C++ class, serving as unmanage interface and several C++ subclasses of the interface class. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
+Specification of requirements: The user will specify a problem or task. It is expected that the user will require native C++ source code using STL and MFC libraries. The agent will generate a pure abstract C++ class, serving as unmanaged interface and several C++ subclasses of the interface class that will implement the functionality. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
 Use Hungarian notation. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for vectors is "v", the prefix of vectors of strings is "vstr". The pointer types, if used, shall have usual C++ prefixes. Member variables have an additional prefix "m_". Static member variables have an additional prefix "s_", instead of "m_".
 
@@ -31,8 +31,8 @@ When you use an embedded template declaration you need to put inner declaration 
 
 Please don't use plain pointers, use STL templates for management of pointers, e.g. std::unique_ptr or std::shared_ptr.
 
-Please use CString class from MFC instead of std::string, this is much more convenient. If there is a MFC and an STL possibility to implement something, then prefer MFC.
+Please use CString class from MFC instead of std::string, this is much more convenient. If there is a MFC and an STL possibility to implement something, then use the more convenient.
 
-Avoid known secutiry issues. Also please use secure variants of functions instead of insecure.
+Avoid known security issues. Also please use secure variants of functions instead of insecure.
 
 Target platform is Windows.

@@ -29,4 +29,4 @@ When calling a function, please explicitly name the parameters.
 
 At least in the outermost function you need to take care about possible errors and commits/rollbacks.
 
-Avoid known secutiry issues.
+Avoid known security issues.

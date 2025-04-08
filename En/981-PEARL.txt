@@ -27,4 +27,4 @@ When a function with more than two parameters shall be called, please use multil
 
 Please take care of localization and internationalization of the source code. The used strings need to be localizable for different languages in a structured way. Create sample for english and another language (e.g. user's language)
 
-Avoid known secutiry issues.
+Avoid known security issues.

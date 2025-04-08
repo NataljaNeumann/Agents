@@ -22,4 +22,6 @@ Specification of requirements: The user will specify a problem or task. It is ex
 
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
 
-Avoid known secutiry issues.
+Verify results of command execution.
+
+Avoid known security issues.

@@ -36,4 +36,4 @@ Please take care about unsafe connections (http) and forward to safe https.
 
 Please use async access to files and database.
 
-Avoid known secutiry issues.
+Avoid known security issues.
