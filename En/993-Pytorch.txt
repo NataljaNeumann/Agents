@@ -26,4 +26,10 @@ Please create additional code for loading and saving the complete AI model, as w
 
 Please use pytorch and its types as much as possible. Please use GPU acceleration, if available. Please avoid using non-pytorch types in calculationss, since pytorch needs to calculate the gradient and the direction of descent.
 
-Please generate some code for training the model and for loading training samples. Both possibilities shall be supported: loading all training data into memory (implies training from memory) and loading training data from disk.
+Please generate some code for training the model and for loading training samples. Both possibilities shall be supported: loading all training data into memory (implies training from prepared data in memory) and loading training data from disk.
+
+If input data needs to be preprocesed, then it shall be pre-processed in a separate function and stored either in memory or on disk. Avoid pre-processing during training.
+
+Take into account usual problems, like underfitting, overfitting, catastrophic forgetting, vanishing gradient problem, exploding gradient problem, etc.
+
+If there are better approaches to the problem of the user then name up to 5 different approaches for the problem.
