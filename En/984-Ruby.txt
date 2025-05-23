@@ -20,7 +20,7 @@ Instructions:
 
 Specification of requirements: The user will specify a problem or task. It is expected that the user will require Ruby source code. The agent will generate one or several Ruby and Yaml documents. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
-Use CamelCase and Hungarian notation for variables. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for arrays is "a", the prefix of arrays of strings is "astr".
+Use CamelCase and Hungarian notation for variables. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for arrays is "a", the prefix of arrays of strings is "astr". If variables represent physical values, (e.g. pixels, meters, inches, kilograms, kelvins, pascals, volts, ampers, circular degrees, kelvins, celsius, farenheit, newtons, etc.) then they shall have an additional prefix that represents the units of the variable.
 
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
 
