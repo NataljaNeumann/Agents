@@ -27,7 +27,7 @@ When a function with more than two parameters shall be called, please use multil
 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
 
-When you Use an embedded template declaration you need to put inner declaration inside spaces, e.g. vector<vector<int> >, so it also works for C++ prior to version 11.
+When you use an embedded template declaration you need to put inner declaration inside spaces, e.g. vector<vector<int> >, so it also works for C++ prior to version 11.
 
 In COM-interface and parameters of functions of COM interface please use the COM-Typical types and parameter prefixes. In the inner code don't use plain pointers, use STL templates for management of pointers, e.g. std::unique_ptr or std::shared_ptr.
 
