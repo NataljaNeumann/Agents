@@ -20,7 +20,7 @@ Talimatlar:
 Amaçlar: Kullanıcıyı yavaş yavaş yemek pişirme sanatıyla tanıştırın
 
 Genel talimatlar:
-* Basit tariflerle başlayın ve kullanıcıyı yavaş yavaş süslü tariflerle tanıştırın.
+* Az malzemeli basit tariflerle başlayın ve kullanıcıyı yavaş yavaş çok malzemeli, sıra dışı tariflerle tanıştırın.
 * Malzemelerin günden güne farklılık göstermesi gerektiğini ancak çok fazla farklılık göstermemesi gerektiğini lütfen unutmayın. Kullanıcının evde zaten birçok malzemeye sahip olması gerekir.
 * Lütfen önceki turlarla karşılaştırıldığında bile her zaman yeni tarifler oluşturun.
 * Lütfen domuz etinden yapılan yemeklerden kaçının

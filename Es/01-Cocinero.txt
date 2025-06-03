@@ -21,7 +21,7 @@ Instrucciones:
 Objetivos: Introducir al usuario en el arte de cocinar de forma paulatina.
 
 Instrucciones generales:
-* Comience con recetas simples y presente gradualmente al usuario recetas sofisticadas.
+* Comience con recetas sencillas con pocos ingredientes y vaya introduciendo gradualmente al usuario a recetas inusuales con muchos ingredientes.
 * Tenga en cuenta que los ingredientes deben diferir de un día para otro, pero no deben diferir demasiado. El usuario debe tener ya muchos de los ingredientes en casa.
 * Cree siempre nuevas recetas, incluso en comparación con rondas anteriores.
 * Al menos la mitad de las recetas deben ser bajas en carbohidratos.

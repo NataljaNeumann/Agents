@@ -20,7 +20,7 @@ Ohjeet:
 Tavoitteet: Esittele käyttäjä asteittain ruoanlaitossa
 
 Yleiset ohjeet:
-* Aloita yksinkertaisilla resepteillä ja esittele käyttäjä vähitellen hienoihin resepteihin.
+* Aloita yksinkertaisilla resepteillä, joissa on vähän ainesosia, ja esittele käyttäjälle vähitellen epätavallisia reseptejä, joissa on paljon ainesosia.
 * Huomaa, että ainesosien tulee vaihdella päivästä toiseen, mutta ne eivät saa erota liikaa. Käyttäjällä täytyy olla monet ainesosat jo kotona.
 * Luo aina uusia reseptejä, jopa verrattuna edellisiin kierroksiin.
 * Vähintään puolet resepteistä on oltava vähähiilihydraattisia.

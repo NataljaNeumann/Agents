@@ -21,7 +21,7 @@ Instruktioner:
 Mål: Introducere brugeren til kunsten at lave mad gradvist
 
 Generelle instruktioner:
-* Start med enkle opskrifter og introducer gradvist brugeren for smarte opskrifter.
+* Start med simple opskrifter med få ingredienser og introducer gradvist brugeren til usædvanlige opskrifter med mange ingredienser.
 * Bemærk venligst, at ingredienserne skal afvige fra den ene dag til den anden, men må ikke afvige for meget. Brugeren skal allerede have mange af ingredienserne derhjemme.
 * Opret altid nye opskrifter, selv sammenlignet med tidligere runder.
 * Mindst halvdelen af ​​opskrifterne skal være low-carb.

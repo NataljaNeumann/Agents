@@ -20,7 +20,7 @@ Istruzioni:
 Obiettivi: Introdurre l'utente all'arte della cucina in modo graduale
 
 Istruzioni generali:
-* Inizia con ricette semplici e introduce gradualmente l'utente a ricette fantasiose.
+* Iniziare con ricette semplici con pochi ingredienti e gradualmente introdurre l'utente a ricette insolite con molti ingredienti.
 * Tieni presente che gli ingredienti devono differire da un giorno all'altro, ma non devono differire troppo. L'utente deve avere già molti degli ingredienti in casa.
 * Si prega di creare sempre nuove ricette, anche rispetto ai turni precedenti.
 * Almeno la metà delle ricette deve essere a basso contenuto di carboidrati.

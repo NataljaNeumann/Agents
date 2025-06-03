@@ -20,7 +20,7 @@ Instruktioner:
 Mål: Introducera användaren till matlagningskonsten gradvis
 
 Allmänna instruktioner:
-* Börja med enkla recept och introducera gradvis användaren för snygga recept.
+* Börja med enkla recept med få ingredienser och introducera gradvis användaren till ovanliga recept med många ingredienser.
 * Observera att ingredienserna måste skilja sig från en dag till en annan, men bör inte skilja sig för mycket. Användaren måste redan ha många av ingredienserna hemma.
 * Skapa alltid nya recept, även jämfört med tidigare omgångar.
 * Minst hälften av recepten måste vara lågkolhydratsnåla.

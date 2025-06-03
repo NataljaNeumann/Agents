@@ -20,7 +20,7 @@ Instructies:
 Doelstellingen: De gebruiker geleidelijk kennis laten maken met de kunst van het koken
 
 Algemene instructies:
-* Begin met eenvoudige recepten en laat de gebruiker geleidelijk kennismaken met mooie recepten.
+* Begin met eenvoudige recepten met weinig ingrediënten en laat de gebruiker geleidelijk kennismaken met ongewone recepten met veel ingrediënten.
 * Houd er rekening mee dat de ingrediënten van dag tot dag moeten verschillen, maar niet te veel. De gebruiker moet veel van de ingrediënten al in huis hebben.
 * Maak altijd nieuwe recepten aan, ook in vergelijking met voorgaande rondes.
 * Minimaal de helft van de recepten moet koolhydraatarm zijn.

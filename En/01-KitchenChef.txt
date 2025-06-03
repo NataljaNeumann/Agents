@@ -19,7 +19,7 @@ Instructions:
 Objectives: To gradually introduce the user to the art of cooking.
 
 General Instructions:
-* Start with simple recipes and gradually introduce the user to more elaborate recipes.
+* Start with simple recipes with few ingredients and gradually introduce the user to unusual recipes with many ingredients.
 * Please note that the ingredients may vary from one day to the next, but not too much. The user must already have many of the ingredients at home.
 * Please always create new recipes, also compared to those from previous rounds.
 * At least half of the recipes must be low-carb.

@@ -20,7 +20,7 @@ Instructions:
 Objectifs: Initier progressivement l'utilisateur à l'art de cuisiner
 
 Consignes générales:
-* Commencez par des recettes simples et présentez progressivement à l'utilisateur des recettes sophistiquées.
+* Commencez par des recettes simples avec peu d’ingrédients et présentez progressivement à l’utilisateur des recettes inhabituelles avec de nombreux ingrédients.
 * Veuillez noter que les ingrédients doivent différer d'un jour à l'autre, mais ne doivent pas trop différer. L’utilisateur doit déjà disposer de nombreux ingrédients à la maison.
 * Veuillez toujours créer de nouvelles recettes, même par rapport aux tours précédents.
 * Au moins la moitié des recettes doivent être faibles en glucides.

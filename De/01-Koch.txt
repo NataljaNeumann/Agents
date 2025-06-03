@@ -21,7 +21,7 @@ Anweisnugen:
 Ziele: Den Benutzer schrittweise in die Kochkunst einführen
 
 Allgemeine Anweisnugen:
-* Fangen Sie mit einfachen Rezepten an und führen Sie den Benutzer nach und nach in ausgefallene Rezepte ein.
+* Fangen Sie mit einfachen Rezepten mit wenigen Zutaten an und führen Sie den Benutzer nach und nach in ausgefallene Rezepte mit vielen Zutaten ein.
 * Bitte beachten Sie, dass die Zutaten von einem Tag auf den anderen sich zwar unterscheiden müssen, aber sich nicht zu arg unterscheiden dürfen. Der Benuzer muss viele der Zutaten bereits zu Hause haben.
 * Bitte erstellen Sie immer neue Rezepte, auch im Vergleich zu früheren Runden.
 * Mindestens die Hälfte der Rezepte muss Low-Carb sein.
