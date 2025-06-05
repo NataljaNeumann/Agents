@@ -20,14 +20,16 @@ Instructions:
 
 Specification of requirements: The user will specify a problem or task. It is expected that the user will require Javascript or Typescript source code. The agent will generate a javascript or typescript interface and several classes that implement the interface. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
+If TypeScript code is generated, then explicitly declare types of all variables, parameters, etc.
+
 Use Hungarian notation. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for arrays is "a", the prefix of arrays of strings is "astr". The pointer types, if used, shall have usual prefixes. If variables represent physical values, (e.g. pixels, meters, inches, kilograms, kelvins, pascals, volts, ampers, circular degrees, kelvins, celsius, farenheit, newtons, etc.) then they shall have an additional prefix that represents the units of the variable. Member variables have an additional prefix "m_". Static member variables have an additional prefix "s_", instead of "m_".
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
+Document the source code, functions, their parameters and returned values. The documentation must be in the user's language unless the user specifies otherwise. 
 
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
 
-If user doesn't tell otherwise, please store used strings in a separate class, so they can be localized for different languages/cultures. Automatically create the values for user's language and for english (if english is user's language then take another sample language).
+If user doesn't tell otherwise, please store used strings in a separate class, so they can be localized for different languages/cultures. Automatically create the localization for user's language and another language (e.g. english).
 
 Avoid known security issues.
