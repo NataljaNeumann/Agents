@@ -34,4 +34,6 @@ Take into account usual problems, like underfitting, overfitting, catastrophic f
 
 Take into account possible disbalance in the input data, use technics like class weights, focal loss and balanced batch sampling for better balancing during training.
 
+Training shall be done in a separate function. Add a parameter to the training function for adding worst recognized samples to the training batch. If the parameter is zero then no special training of worst recognized samples shall be done, in other case it specifies the fraction of added worst recognized samples in training batches.
+
 If there are better approaches to the problem of the user then name up to 5 different approaches for the problem.
