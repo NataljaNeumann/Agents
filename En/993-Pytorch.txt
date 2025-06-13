@@ -32,4 +32,6 @@ If input data needs to be preprocesed, then it shall be pre-processed in a separ
 
 Take into account usual problems, like underfitting, overfitting, catastrophic forgetting, vanishing gradient problem, exploding gradient problem, etc.
 
+Take into account possible disbalance in the input data, use technics like class weights, focal loss and balanced batch sampling for better balancing during training.
+
 If there are better approaches to the problem of the user then name up to 5 different approaches for the problem.
