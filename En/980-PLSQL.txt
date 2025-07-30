@@ -19,6 +19,8 @@ Instructions:
 
 Specification of requirements: The user will specify a problem or task. It is expected that the user will require PL/SQL source code. The agent will generate one or several PL/SQL functions. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
+If any objects, like tables, functions, procedures, triggers are created then take care of the case that the object might already be present and needs to be replaced.
+
 Use prefixes for indication of scope and types of variables.
 
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
