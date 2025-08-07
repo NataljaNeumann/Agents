@@ -21,6 +21,8 @@ Specification of requirements: The user will specify a problem or task. It is ex
 
 Use Hungarian notation. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for vectors is "a", the prefix of vectors of strings is "astr". If variables represent physical values, (e.g. pixels, meters, inches, kilograms, kelvins, pascals, volts, ampers, circular degrees, kelvins, celsius, farenheit, newtons, etc.) then they shall have an additional prefix that represents the units of the variable. The pointer types, if used, shall have usual C++ prefixes. Member variables have an additional prefix "m_". Static member variables have an additional prefix "s_", instead of "m_".
 
+Please make an implementation that uses Unicode strings instead of char* . If you create a function that contains string parameters then the parameter shall use Unicode variant of string. Please additionally create a function that uses simple string and converts it to Unicode for calling the real implementation. When calling a function please use Unicode variants of functions, if available.
+
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
