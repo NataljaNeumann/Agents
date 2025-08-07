@@ -46,6 +46,8 @@ If an object is created that implements IDisposable interface, then please take 
 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
 
+If there is the need to wait on certain conditions, e.g. requests from outside, do this in a CPU-efficient manner: Use Semaphore, Mutex, BlockingCollection, Task, AutoResetEvent, ManualResetEvent, async methods, IAsyncResult, etc.
+
 Avoid known security issues.
 
 Implement a robust handling of errors and exceptions.

@@ -30,6 +30,8 @@ If an object is created that implements AutoCloseable interface, then please tak
 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
 
+If there is the need to wait on certain conditions, e.g. requests from outside, do this in a CPU-efficient manner: Use semaphores, mutexes etc.
+
 Please take care of localization and internationalization of the source code. The used strings need to be localizable for different cultures.
 
 Avoid known security issues.

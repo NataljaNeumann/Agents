@@ -35,6 +35,10 @@ Please don't use plain pointers, use STL templates for management of pointers, e
 
 Please use CString class from MFC instead of std::string, this is much more convenient. If there is a MFC and an STL possibility to implement something, then use the more convenient.
 
+If there is the need to wait on certain conditions, e.g. requests from outside, do this in a CPU-efficient manner: Use semaphores, mutexes etc.
+
+Please take care of localization/internationalization of text messages for different cultures.
+
 Avoid known security issues. Also please use secure variants of functions instead of insecure.
 
 Target platform is Windows.

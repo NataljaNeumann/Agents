@@ -37,4 +37,6 @@ If a COM object is created then please take care of its release. Please take car
 
 Please take care of localization/internationalization of source code. The used strings need to be taken from resources, so they are localizable for different cultures.
 
+If there is the need to wait on certain conditions, e.g. requests from outside, do this in a CPU-efficient manner: Use Semaphore, Mutex, BlockingCollection, Task, AutoResetEvent, ManualResetEvent, async methods, IAsyncResult, etc.
+
 Avoid known security issues.

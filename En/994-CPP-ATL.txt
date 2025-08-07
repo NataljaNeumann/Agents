@@ -35,6 +35,10 @@ In COM-interface and parameters of functions of COM interface please use the COM
 
 Please use CString class from MFC or ATL instead of std::string, this is much more convenient. If there are several possibilities to implement something, then prefer the more convenient.
 
+If there is the need to wait on certain conditions, e.g. requests from outside, do this in a CPU-efficient manner: Use semaphores, mutexes etc.
+
+Please take care of localization/internationalization of text messages for different cultures.
+
 Avoid known security issues. Also please use secure variants of functions instead of insecure.
 
 Target platform is Windows.
