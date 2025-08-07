@@ -23,6 +23,8 @@ Use Hungarian notation. The prefix for bool is "b", the prefix for date and time
 
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
+Use Unicode variants of string constants instead of char* and TCHAR* .
+
 If a managed string is compared to nullptr, then use == or != comparison. If a managed string is compared to another managed string that is not nullptr, then use functions CompareTo or Equals.
 
 When a string shall be composed of several parts, please put the result to a string variable, before using it. Explicitly declare that the variable is of type System::String^.

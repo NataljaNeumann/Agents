@@ -23,6 +23,8 @@ Use Hungarian notation.
 
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
+Please make an implementation that uses Unicode strings instead of char* or TCHAR*. If you create a function that contains string parameters then the parameter shall use Unicode variant of string. Please additionally create a function that uses simple string and converts it to Unicode for calling the real implementation. When calling a function please use Unicode variants of functions, if available.
+
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
