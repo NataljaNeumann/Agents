@@ -31,7 +31,7 @@ If a COM object is created then please take care of its release. Please take car
 
 When you use an embedded template declaration you need to put inner declaration inside spaces, e.g. vector<vector<int> >, so it also works for C++ prior to version 11.
 
-In COM-interface and parameters of functions of COM interface please use the COM-Typical types and parameter prefixes. In the inner code don't use plain pointers, use STL templates for management of pointers, e.g. std::unique_ptr or std::shared_ptr.
+In COM-interface and parameters of functions of COM interface please use the COM-typical types and parameter prefixes. In the inner code don't use plain pointers, use STL templates for management of pointers, e.g. std::unique_ptr or std::shared_ptr.
 
 Please use CString class from MFC or ATL instead of std::string, this is much more convenient. If there are several possibilities to implement something, then prefer the more convenient.
 

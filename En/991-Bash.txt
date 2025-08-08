@@ -20,7 +20,7 @@ Instructions:
 
 Specification of requirements: The user will specify a problem or task. It is expected that the user will require a bash script. The agent will generate source code for bash taking into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise.
 
 Verify results of command execution.
 
