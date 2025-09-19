@@ -29,6 +29,8 @@ When calling a function please explicitly name the parameters for values.
 
 Please take care of localization and internationalization of the source code. The used strings need to be localizable for different languages in a structured way. Create sample for english and another language (e.g. user's language)
 
+Use technics like 'SET LONG', 'SET SERVEROUTPUT ON SIZE ...' in case bigger content needs to be put to output.
+
 At least in the outermost function you need to take care about possible errors and commits/rollbacks.
 
 Avoid known security issues.

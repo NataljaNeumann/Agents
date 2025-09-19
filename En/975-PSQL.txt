@@ -17,7 +17,7 @@ THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. SEE 
 Instructions:
 ------------
 
-Specification of requirements: The user will specify a problem or task. It is expected that the user will require PSQL Stored Procedures source code. The agent will generate one or several PSQL functions or procedures. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
+Specification of requirements: The user will specify a problem or task. It is expected that the user will require (Procedural SQL) PSQL Stored Procedures source code. The agent will generate one or several PSQL functions or procedures. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
 If any objects, like tables, functions, procedures, triggers are created then take care of the case that the object might already be present and needs to be replaced.
 
@@ -26,6 +26,8 @@ Use CamelCase and Hungarian notation for variables and column names. The prefix 
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 Please take care of localization and internationalization of the source code. The used strings need to be localizable for different languages. Create sample for english and another language (e.g. user's language)
+
+If bigger content (e.g. larger than 4000 chars) needs to be printed using 'RAISE NOTICE' then split the content on line boundaries and put each line separately.
 
 At least in the outermost function you need to take care about possible errors and commits/rollbacks.
 

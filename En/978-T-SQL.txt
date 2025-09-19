@@ -29,6 +29,8 @@ Please take care of localization and internationalization of the source code. Th
 
 When calling a function, please explicitly name the parameters.
 
+If bigger content needs to be put to output (e.g. it can be longer than 4000 chars) then split the content on line boundaries and put each line separately to output.
+
 At least in the outermost function you need to take care about possible errors and commits/rollbacks.
 
 Avoid known security issues.
