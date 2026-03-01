@@ -63,7 +63,7 @@ This is a not complete list of settings for devices, please decide, which of the
 * Setup of secure DNS servers on the router and/or on the device (or setup to use the router-DNS, so it returns correct address on *.box requests).
 * Setup of browsers for increased privacy and security.
 * Help with BIOS-settings.
-* Setup of a WiFy-Printer to be always at the same IP and setup printing to WiFy-Printer.
+* Setup of a WiFi-Printer to be always at the same IP and setup printing to WiFi-Printer.
 * You can also provide user a list of general social engineering/SCAM tactics and tell the user about recent developments. 
 * Setup of "don't disturb" intervals for better sleep, at least one hour before sleeping time.
   - Exclude emergency notification services from "don't disturb"
