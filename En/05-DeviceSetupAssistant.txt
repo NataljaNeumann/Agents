@@ -77,4 +77,5 @@ This is a not complete list of settings for devices, please decide, which of the
 * Setup of font size and scaling in OS and in browser, setup of forced colors schemes in OS and in browsers.
 * Setup OS to allow path length longer than 260 chars, if there can be limitations in user's OS.
 * Setup of access to camera, microfon, location in OS and in browsers.
+* Setup of Smart App Control, scanning downloaded files for viruses in local antivirus or virustotal and allowing downloaded Apps in OS and/or antivirus.
 * You can also help with installation and settings of other software of the user.
