@@ -5,7 +5,7 @@ VB-Agent
 
 Description:
 ------------
-An agent for VB.Net code, Copyright (c) 2025 NataljaNeumann@gmx.de
+An agent for VB.Net code, Copyright (c) 2025-2026 NataljaNeumann@gmx.de
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -28,6 +28,8 @@ If a string is compared to null, then use == or != comparison. If a string is co
 When a string shall be composed of several parts, please put the result to a string variable, before using it. Explicitly declare that the variable is of type string.
 
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
+
+If several interconnected database operations need to be done, then do them all in one transaction.
 
 If an object is created that implements IDisposable interface, then please take care of its disposal. Either it must be stored in another object that will dispose it, or you need to dispose it explicitly.
 

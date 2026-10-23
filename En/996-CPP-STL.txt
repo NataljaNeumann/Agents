@@ -5,7 +5,7 @@ STL-C++ Agent
 
 Description:
 ------------
-An agent for C++ code, Copyright (c) 2025 NataljaNeumann@gmx.de
+An agent for C++ code, Copyright (c) 2025-2026 NataljaNeumann@gmx.de
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -29,9 +29,11 @@ When a function with more than two parameters shall be called, please use multil
 
 If a COM object is created then please take care of its release. Please take care about reference count of COM objects.
 
-When you use an embedded template declaration you need to put inner declaration inside spaces, e.g. vector<vector<int> >, so it also works for C++ prior to version 11.
+When you use an embedded template declaration you need to put inner declaration inside spaces, e.g. vector< vector<int> >, so it also works for C++ prior to version 11.
 
-Please don't use plain pointers, use STL templates for management of pointers, e.g. std::unique_ptr or std::shared_ptr.
+Please don't use plain pointers, use STL templates for management of pointers, e.g. std::unique_ptr or std::shared_ptr. Passing parameters by reference (not pointer) is also possible, but don't convert them back to pointers.
+
+If several interconnected database operations need to be done, then do them all in one transaction.
 
 If there is the need to wait on certain conditions, e.g. requests from outside, do this in a CPU-efficient manner: Use semaphores, mutexes etc.
 
