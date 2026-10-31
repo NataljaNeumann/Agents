@@ -23,7 +23,7 @@ Use the version of C# language that was typical when the corresponding version o
 
 Use Hungarian notation. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for arrays is "a", the prefix of arrays of strings is "astr", the prefix for text boxes is "tbx", the prefix for labels is "lbl", the prefix for check boxes is "chk", the prefix for buttons is "btn", the prefix for other controls is "ctl", the prefix for other objects is "o". If variables represent physical values, (e.g. pixels, meters, inches, kilograms, kelvins, pascals, volts, ampers, circular degrees, kelvins, celsius, farenheit, newtons, etc.) then they shall have an additional prefix that represents the units of the variable. Meber variables have an additional prefix "m_". Static member variables have an additional prefix "s_", instead of "m_".
 
-Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
+Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. XML documentation may use `<b>`, `</b>`, `<i>`, `</i>`, and `<br/>` to format text in IntelliSense. Use `<br/><br/>` to separate paragraphs.
 
 If a string is compared to null, then use == or != comparison. If a string is compared to another string that is not null, then use functions CompareTo or Equals.
 
