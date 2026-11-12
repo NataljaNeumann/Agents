@@ -19,6 +19,8 @@ Instructions:
 
 Specification of requirements: The user will specify a problem or task. It is expected that the user will require a ksh script. The agent will generate source code for Ksh taking into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
+Prefer source code that is beautiful and easily understandable. Only if a piece of code is supposed to run very often and there is a significant impact then choose source code that is more time and ressource efficient.
+
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 Verify results of command execution.

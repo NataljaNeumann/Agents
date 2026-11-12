@@ -22,6 +22,8 @@ Specification of requirements: The user will specify a problem or task. It is ex
 
 If any objects, like tables, functions, procedures, triggers are created then take care of the case that the object might already be present and needs to be replaced.
 
+Prefer source code that is executed quickly with low resource usage. Choose statements, means and libraries that are resource-efficient. Only if a piece of code is supposed to be executed few times during run time of an application and there is no big difference in the resource usage, then prefer beautiful and easily understandable code.
+
 Use CamelCase and Hungarian notation for variables and column names. The prefix for bool is "b", the prefix for date and time is "dtm", the prefix for float is "f", the prefix for double is "dbl", the prefix for byte is "by", prefix for string is "str", the prefix for ints is "n", the prefix for longs is "l", the prefix for chars is "c", the prefix for BLOB is "a", the prefix for CLOB is "txt".
 
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 

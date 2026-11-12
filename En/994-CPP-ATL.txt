@@ -21,6 +21,8 @@ Specification of requirements: The user will specify a problem or task. It is ex
 
 Use Hungarian notation.
 
+Prefer source code that is executed quickly with low resource usage. Choose statements, means and libraries that are resource-efficient. Only if a piece of code is supposed to be executed few times during run time of an application and there is no big difference in the resource usage, then prefer beautiful and easily understandable code.
+
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 Please make an implementation that uses Unicode strings instead of char* or TCHAR*. If you create a function that contains string parameters then the parameter shall use Unicode variant of string. Please additionally create a function that uses simple string and converts it to Unicode for calling the real implementation. When calling a function please use Unicode variants of functions, if available.

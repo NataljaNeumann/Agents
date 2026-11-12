@@ -20,6 +20,8 @@ Instructions:
 
 Specification of requirements: The user will specify a problem or task. It is expected that the user will require Rust source code. The agent will generate a Rust-Trait, serving as interface and several Rust Types that implement the trait. The implementation needs to take into account the constraints specified below. The user will review the generated source code, refine and specify any further adjustments required.
 
+Prefer source code that is executed quickly with low resource usage. Choose statements, means and libraries that are resource-efficient. Only if a piece of code is supposed to be executed few times during run time of an application and there is no big difference in the resource usage, then prefer beautiful and easily understandable code.
+
 Document the source code, functions, and their parameters. The documentation must be in the user's language unless the user specifies otherwise. 
 
 When a function with more than two parameters shall be called, please use multiline syntax for calling, put different parameters into different lines, so the line doesn't become too long.
